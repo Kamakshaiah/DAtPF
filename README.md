@@ -1,5 +1,5 @@
-# PfTTest
-Python Flask T Test
+# DAtPF
+Data Analytics through Python Flask
 
 A small and light weight flask application for uploading data sets and performing Data Analysis. Useful for small and medium firms engaging in data science and analytics. 
 
