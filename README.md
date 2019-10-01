@@ -3,22 +3,20 @@ Python Flask T Test
 
 A small and light weight flask application for uploading data sets and performing T Test
 
-Download the entire (compressed) file and run the server. You need to keep your dataset in the place of a file named "sampledata.csv" in the folder.
+Download the entire (compressed - [.tar.gz]) file, extract and run the server. You need to keep your dataset in the place of a file named "sampledata.csv" in the folder.
 
-Ensure Python and following are dependencies. 
+Ensure Python and following dependencies. 
 
 pandas
 scipy
 io
 base64
-matplotlib.pyplot as plt
+matplotlib
 pygal
-plotly.express as px
 flask
 numpy
 scipy
 pandas
-matplotlib
 flask_wtf
 wtforms
 calc
