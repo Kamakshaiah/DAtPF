@@ -1,7 +1,7 @@
 # PfTTest
 Python Flask T Test
 
-A small and light weight flask application for uploading data sets and performing T Test
+A small and light weight flask application for uploading data sets and performing Data Analysis. Useful for small and medium firms engaging in data science and analytics. 
 
 Download the entire (compressed - [.tar.gz]) file, extract and run the server. You need to keep your dataset in the place of a file named "sampledata.csv" in the folder.
 
